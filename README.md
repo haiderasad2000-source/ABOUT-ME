@@ -192,7 +192,7 @@ I'm exploring:
 |----------|-------|
 | **Email** | [haiderasad2000@gmail.com](mailto:haiderasad2000@gmail.com) |
 | **Location** | Hong Kong 🇭🇰 |
-| **GitHub** | [Asad Haider](https://github.com/haiderasad2000-source)) |
+| **GitHub** | [Asad Haider](https://github.com/haiderasad2000-source) |
 | **LinkedIn** | [Asad Haider](www.linkedin.com/in/asadhaider2) |
 
 ---
